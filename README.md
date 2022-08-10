@@ -5,6 +5,8 @@ Greetings, thank you for visit to this page. Here you can find some of my works 
 ## Tanya Notaris
 ##### Jul 2021 - Sept 2021, Front-end Engineer
 
+Tanya Notaris is a legal service provider. In this project our team, consist of 3 person with different backgroud (1 FE, 1 BE, 1 PM), was asked to develop a web app that can be used responsively on smartphones or desktops, so we use mobile-first approach to do the layouting. This apps was made with NextJS and Tailwind CSS for the front-end and Laravel (PHP) for the back-end side.
+
 You can visit Tanya Notaris App demo on https://tanyanotaris-demo.vercel.app/
 
 Tech stack : **React**, **NextJs**, **Tailwind CSS**, **SWR**
